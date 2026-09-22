@@ -1,0 +1,4 @@
+# id|name|phone|gender|specialization|department
+1001|Dr. Ayesha Rahman|01711000001|FEMALE|Interventional Cardiology|CARDIOLOGY
+1002|Dr. Imran Hossain|01711000002|MALE|Paediatric Surgery|SURGERY
+1003|Dr. Nusrat Jahan|01711000003|FEMALE|Child Health|PEDIATRICS

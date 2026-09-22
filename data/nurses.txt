@@ -1,0 +1,4 @@
+# id|name|phone|gender|shift|qualification
+2001|Mitu Akter|01822000001|FEMALE|MORNING|BSc in Nursing
+2002|Rakib Hasan|01822000002|MALE|NIGHT|Diploma in Nursing
+2004|gfhfggf|54645654|FEMALE|MORNING|rrtet

@@ -1,0 +1,4 @@
+# id|name|manufacturer|quantity|price
+4001|Napa 500mg|Beximco|114|1.2
+4002|Amoxicillin 250mg|Square|60|6.5
+4003|Omeprazole 20mg|Incepta|40|4.0

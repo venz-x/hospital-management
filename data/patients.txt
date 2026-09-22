@@ -1,0 +1,3 @@
+# id|name|phone|gender|disease|bloodGroup|status|nurseId|medicines
+3001|Karim Uddin|01933000001|MALE|Typhoid fever|B_POSITIVE|ADMITTED|2001|4001:6
+3002|Shila Begum|01933000002|FEMALE|Migraine|O_POSITIVE|OUTPATIENT|0|
